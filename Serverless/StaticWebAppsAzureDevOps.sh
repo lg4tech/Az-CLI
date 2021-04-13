@@ -1,4 +1,6 @@
 #!/bin/bash
+
+#Reference Architecure Diagram: https://github.com/lg4tech/Az-Architecture/blob/master/Serverless/Static-Web-Apps-Azure-DevOps.png?raw=true
  
 rg=mystaticwebapp
 location=eastus2
